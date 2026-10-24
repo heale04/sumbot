@@ -1,0 +1,283 @@
+finalize started Fri Oct 23 01:40:22 EDT 2026
+all solver processes finished Fri Oct 23 05:14:28 EDT 2026
+== heads-up export (best solver per stack) ==
+stack 3bb: cfrplus nodes=193 iters=30000 expl=0.00 mbb strategy bytes=44,655
+stack 4bb: cfrplus nodes=349 iters=30000 expl=0.00 mbb strategy bytes=72,315
+stack 5bb: cfrplus nodes=793 iters=30000 expl=0.00 mbb strategy bytes=113,575
+stack 6bb: cfrplus nodes=793 iters=30000 expl=0.00 mbb strategy bytes=113,575
+stack 8bb: cfrplus nodes=1681 iters=30000 expl=0.01 mbb strategy bytes=196,095
+stack 10bb: misp nodes=3121 iters=30000 expl=0.02 mbb strategy bytes=305,015
+stack 12bb: misp nodes=3121 iters=30000 expl=0.26 mbb strategy bytes=305,015
+stack 15bb: misp nodes=6109 iters=30000 expl=0.83 mbb strategy bytes=507,995
+stack 20bb: misp nodes=10849 iters=30000 expl=0.26 mbb strategy bytes=794,975
+stack 25bb: misp nodes=17857 iters=30000 expl=0.51 mbb strategy bytes=1,130,975
+stack 30bb: misp nodes=18853 iters=30000 expl=0.95 mbb strategy bytes=1,198,635
+stack 40bb: misp nodes=31909 iters=30000 expl=1.18 mbb strategy bytes=1,825,835
+stack 50bb: misp nodes=44629 iters=30000 expl=2.45 mbb strategy bytes=2,441,835
+stack 65bb: misp nodes=54733 iters=30000 expl=3.81 mbb strategy bytes=2,929,035
+stack 80bb: misp nodes=80173 iters=30000 expl=3.50 mbb strategy bytes=4,161,035
+stack 100bb: misp nodes=100501 iters=30000 expl=3.95 mbb strategy bytes=5,152,235
+wrote hubot/blueprint_hu.npz: 12.6 MB, 16 stacks, 375,664 nodes, 21,292,800 strategy bytes
+== multiway export ==
+N=3 5bb: nodes=130 iters=201 nashconv=0.06 mbb bytes=12,900
+N=3 8bb: nodes=130 iters=201 nashconv=0.07 mbb bytes=12,900
+N=3 12bb: nodes=130 iters=401 nashconv=0.29 mbb bytes=12,900
+N=3 16bb: nodes=130 iters=401 nashconv=0.23 mbb bytes=12,900
+N=3 20bb: nodes=130 iters=501 nashconv=0.25 mbb bytes=12,900
+N=3 25bb: nodes=130 iters=601 nashconv=0.24 mbb bytes=12,900
+N=3 32bb: nodes=130 iters=801 nashconv=0.30 mbb bytes=12,900
+N=3 40bb: nodes=130 iters=901 nashconv=0.27 mbb bytes=12,900
+N=3 50bb: nodes=130 iters=1101 nashconv=0.29 mbb bytes=12,900
+N=3 65bb: nodes=130 iters=701 nashconv=0.25 mbb bytes=12,900
+N=3 100bb: nodes=130 iters=901 nashconv=0.27 mbb bytes=12,900
+N=4 5bb: nodes=640 iters=201 nashconv=0.10 mbb bytes=63,900
+N=4 8bb: nodes=640 iters=201 nashconv=0.25 mbb bytes=63,900
+N=4 12bb: nodes=640 iters=501 nashconv=0.27 mbb bytes=63,900
+N=4 16bb: nodes=640 iters=601 nashconv=0.26 mbb bytes=63,900
+N=4 20bb: nodes=640 iters=601 nashconv=0.23 mbb bytes=63,900
+N=4 25bb: nodes=640 iters=601 nashconv=0.27 mbb bytes=63,900
+N=4 32bb: nodes=640 iters=801 nashconv=0.29 mbb bytes=63,900
+N=4 40bb: nodes=640 iters=801 nashconv=0.30 mbb bytes=63,900
+N=4 50bb: nodes=640 iters=1201 nashconv=0.28 mbb bytes=63,900
+N=4 65bb: nodes=640 iters=701 nashconv=0.28 mbb bytes=63,900
+N=4 100bb: nodes=640 iters=1101 nashconv=0.28 mbb bytes=63,900
+N=5 5bb: nodes=2,926 iters=201 nashconv=0.18 mbb bytes=292,500
+N=5 8bb: nodes=2,926 iters=401 nashconv=0.20 mbb bytes=292,500
+N=5 12bb: nodes=2,926 iters=501 nashconv=0.27 mbb bytes=292,500
+N=5 16bb: nodes=2,926 iters=701 nashconv=0.25 mbb bytes=292,500
+N=5 20bb: nodes=2,926 iters=1101 nashconv=0.27 mbb bytes=292,500
+N=5 25bb: nodes=2,926 iters=701 nashconv=0.28 mbb bytes=292,500
+N=5 32bb: nodes=2,926 iters=1201 nashconv=0.28 mbb bytes=292,500
+N=5 40bb: nodes=2,926 iters=1001 nashconv=0.30 mbb bytes=292,500
+N=5 50bb: nodes=2,926 iters=1401 nashconv=0.28 mbb bytes=292,500
+N=5 65bb: nodes=2,926 iters=1101 nashconv=0.29 mbb bytes=292,500
+N=5 100bb: nodes=2,926 iters=1101 nashconv=0.30 mbb bytes=292,500
+N=6 5bb: nodes=12,832 iters=201 nashconv=0.27 mbb bytes=1,283,100
+N=6 8bb: nodes=12,832 iters=401 nashconv=0.24 mbb bytes=1,283,100
+N=6 12bb: nodes=12,832 iters=701 nashconv=0.26 mbb bytes=1,283,100
+N=6 16bb: nodes=12,832 iters=901 nashconv=0.27 mbb bytes=1,283,100
+N=6 20bb: nodes=12,832 iters=1501 nashconv=0.29 mbb bytes=1,283,100
+N=6 25bb: nodes=12,832 iters=1301 nashconv=0.27 mbb bytes=1,283,100
+N=6 32bb: nodes=12,832 iters=1401 nashconv=0.30 mbb bytes=1,283,100
+N=6 40bb: nodes=12,832 iters=1201 nashconv=0.27 mbb bytes=1,283,100
+N=6 50bb: nodes=12,832 iters=1401 nashconv=0.30 mbb bytes=1,283,100
+N=6 65bb: nodes=12,832 iters=1301 nashconv=0.29 mbb bytes=1,283,100
+N=6 100bb: nodes=12,832 iters=2001 nashconv=0.29 mbb bytes=1,283,100
+N=7 5bb: nodes=45,742 iters=201 nashconv=0.23 mbb bytes=4,574,100
+N=7 8bb: nodes=54,790 iters=501 nashconv=0.22 mbb bytes=5,478,900
+N=7 12bb: nodes=54,790 iters=1001 nashconv=0.30 mbb bytes=5,478,900
+N=7 16bb: nodes=54,790 iters=1601 nashconv=0.27 mbb bytes=5,478,900
+N=7 20bb: nodes=54,790 iters=2001 nashconv=0.27 mbb bytes=5,478,900
+N=7 25bb: nodes=54,790 iters=1801 nashconv=0.29 mbb bytes=5,478,900
+N=7 32bb: nodes=54,790 iters=1701 nashconv=0.28 mbb bytes=5,478,900
+N=7 40bb: nodes=54,790 iters=1501 nashconv=0.29 mbb bytes=5,478,900
+N=7 50bb: nodes=54,790 iters=1601 nashconv=0.28 mbb bytes=5,478,900
+N=7 65bb: nodes=54,790 iters=1701 nashconv=0.27 mbb bytes=5,478,900
+N=7 100bb: nodes=54,790 iters=2801 nashconv=0.29 mbb bytes=5,478,900
+N=8 5bb: nodes=141,976 iters=201 nashconv=0.21 mbb bytes=14,197,500
+N=8 8bb: nodes=229,720 iters=701 nashconv=0.26 mbb bytes=22,971,900
+N=8 12bb: nodes=229,720 iters=1401 nashconv=0.29 mbb bytes=22,971,900
+N=8 16bb: nodes=229,720 iters=1401 nashconv=0.26 mbb bytes=22,971,900
+N=8 20bb: nodes=229,720 iters=1001 nashconv=0.98 mbb bytes=22,971,900
+N=8 25bb: nodes=229,720 iters=2401 nashconv=0.28 mbb bytes=22,971,900
+N=8 32bb: nodes=229,720 iters=1801 nashconv=0.66 mbb bytes=22,971,900
+N=8 40bb: nodes=229,720 iters=901 nashconv=1.65 mbb bytes=22,971,900
+N=8 50bb: nodes=229,720 iters=1801 nashconv=0.28 mbb bytes=22,971,900
+N=8 65bb: nodes=229,720 iters=1701 nashconv=0.33 mbb bytes=22,971,900
+N=8 100bb: nodes=229,720 iters=801 nashconv=1.66 mbb bytes=22,971,900
+wrote hubot/blueprint_multi.npz: 36.0 MB, 66 trees, 321,456,000 strategy bytes
+== staging dist/ ==
+{
+  "sha256": "8695d1c057165f389174de99619c396b393e5192f7cc355d52494173d2c13c58",
+  "size_bytes": 45830576,
+  "files": [
+    "agent.py",
+    "hubot/__init__.py",
+    "hubot/blueprint_hu.npz",
+    "hubot/blueprint_multi.npz",
+    "hubot/cards.py",
+    "hubot/equity.py",
+    "hubot/icm.py",
+    "hubot/runtime.py",
+    "hubot/warmup.py"
+  ]
+}
+{
+  "sha256": "8695d1c057165f389174de99619c396b393e5192f7cc355d52494173d2c13c58",
+  "size_bytes": 45830576,
+  "files": [
+    "agent.py",
+-rw-r--r--@ 1 alexhe  staff  45830576 Oct 23 05:14 sumbot.zip
+== self-check heads-up (40 tables) ==
+decisions=3844 illegal=0 exceptions=0
+latency us: median=17 p90=66 p99=68 max=86
+  slow: 86 us board=3 players=2 to_call=0 -> Action(kind='check', amount=0, cards=())
+  slow: 84 us board=3 players=2 to_call=0 -> Action(kind='check', amount=0, cards=())
+  slow: 82 us board=3 players=2 to_call=0 -> Action(kind='raise', amount=75, cards=())
+  slow: 78 us board=3 players=2 to_call=0 -> Action(kind='check', amount=0, cards=())
+  slow: 77 us board=4 players=2 to_call=0 -> Action(kind='check', amount=0, cards=())
+me: avg points 50.00 over 40 seats
+check_or_fold: avg points 30.00 over 40 seats
+== self-check 8 players (40 tables, 2 copies) ==
+decisions=12473 illegal=0 exceptions=0
+latency us: median=23 p90=67 p99=136 max=193
+  slow: 193 us board=3 players=6 to_call=291 -> Action(kind='raise', amount=1813, cards=())
+  slow: 192 us board=3 players=6 to_call=220 -> Action(kind='raise', amount=1320, cards=())
+  slow: 191 us board=3 players=6 to_call=210 -> Action(kind='raise', amount=1260, cards=())
+  slow: 190 us board=3 players=6 to_call=270 -> Action(kind='raise', amount=1710, cards=())
+  slow: 189 us board=3 players=6 to_call=210 -> Action(kind='raise', amount=1680, cards=())
+me: avg points 20.46 over 80 seats
+min_raiser: avg points 3.58 over 120 seats
+check_or_fold: avg points 16.11 over 120 seats
+== simulator: 100 tables heads-up vs min_raiser ==
+{
+  "seed": "final1",
+  "tables": 100,
+  "bots": {
+    "dist#0": {
+      "average_points": 46.8,
+      "places": {
+        "1": 84,
+        "2": 16
+      },
+      "failed_decisions": 0
+    },
+    "min_raiser#1": {
+      "average_points": 33.2,
+      "places": {
+        "1": 16,
+        "2": 84
+      },
+      "failed_decisions": 0
+    }
+  }
+}
+== simulator: 100 tables 8-handed (2 copies) ==
+    "dist#0": {
+      "average_points": 18.297,
+      "places": {
+        "1": 32,
+        "2": 11,
+        "3": 2,
+        "4": 1,
+        "5": 21,
+        "6": 20,
+        "7": 6,
+        "8": 7
+      },
+      "failed_decisions": 0
+--
+    "dist#3": {
+      "average_points": 21.776,
+      "places": {
+        "1": 41,
+        "2": 10,
+        "4": 2,
+        "5": 15,
+        "6": 13,
+        "7": 9,
+        "8": 10
+      },
+      "failed_decisions": 0
+    },
+== exploitability summary (mbb/hand, abstract heads-up game) ==
+blueprint/runs/misp/hu_100bb.log: t= 30000 expl(avg)=    3.951 expl(cur)=   22.436 mbb/hand value(SB)=  154.40 mbb
+blueprint/runs/misp/hu_10bb.log: t= 30000 expl(avg)=    0.021 expl(cur)=    0.040 mbb/hand value(SB)=   21.07 mbb
+blueprint/runs/misp/hu_12bb.log: t= 30000 expl(avg)=    0.263 expl(cur)=    0.250 mbb/hand value(SB)=   18.60 mbb
+blueprint/runs/misp/hu_15bb.log: t= 30000 expl(avg)=    0.835 expl(cur)=   60.930 mbb/hand value(SB)=   27.83 mbb
+blueprint/runs/misp/hu_20bb.log: t= 30000 expl(avg)=    0.261 expl(cur)=    0.432 mbb/hand value(SB)=   56.07 mbb
+blueprint/runs/misp/hu_25bb.log: t= 30000 expl(avg)=    0.513 expl(cur)=    1.090 mbb/hand value(SB)=   80.09 mbb
+blueprint/runs/misp/hu_30bb.log: t= 30000 expl(avg)=    0.948 expl(cur)=    2.748 mbb/hand value(SB)=   98.35 mbb
+blueprint/runs/misp/hu_3bb.log: t= 30000 expl(avg)=    0.002 expl(cur)=    0.002 mbb/hand value(SB)=   23.14 mbb
+blueprint/runs/misp/hu_40bb.log: t= 30000 expl(avg)=    1.175 expl(cur)=    1.498 mbb/hand value(SB)=  123.41 mbb
+blueprint/runs/misp/hu_4bb.log: t= 30000 expl(avg)=    0.009 expl(cur)=    0.006 mbb/hand value(SB)=   51.16 mbb
+blueprint/runs/misp/hu_50bb.log: t= 30000 expl(avg)=    2.452 expl(cur)=    3.080 mbb/hand value(SB)=  137.25 mbb
+blueprint/runs/misp/hu_5bb.log: t= 30000 expl(avg)=    0.004 expl(cur)=    0.003 mbb/hand value(SB)=   62.15 mbb
+blueprint/runs/misp/hu_65bb.log: t= 30000 expl(avg)=    3.809 expl(cur)=  123.375 mbb/hand value(SB)=  148.43 mbb
+blueprint/runs/misp/hu_6bb.log: t= 30000 expl(avg)=    0.009 expl(cur)=    0.004 mbb/hand value(SB)=   59.69 mbb
+blueprint/runs/misp/hu_80bb.log: t= 30000 expl(avg)=    3.498 expl(cur)=   28.212 mbb/hand value(SB)=  151.34 mbb
+blueprint/runs/misp/hu_8bb.log: t= 30000 expl(avg)=    0.015 expl(cur)=    0.022 mbb/hand value(SB)=   37.29 mbb
+blueprint/runs/cfrplus/hu_100bb.log: t= 30000 expl(avg)=    4.847 expl(cur)=  655.479 mbb/hand value(SB)=  154.18 mbb
+blueprint/runs/cfrplus/hu_10bb.log: t= 30000 expl(avg)=    0.260 expl(cur)=   34.639 mbb/hand value(SB)=   21.02 mbb
+blueprint/runs/cfrplus/hu_12bb.log: t= 30000 expl(avg)=    0.530 expl(cur)=   81.073 mbb/hand value(SB)=   18.57 mbb
+blueprint/runs/cfrplus/hu_15bb.log: t= 30000 expl(avg)=    0.901 expl(cur)=   95.622 mbb/hand value(SB)=   27.81 mbb
+blueprint/runs/cfrplus/hu_20bb.log: t= 30000 expl(avg)=    1.365 expl(cur)=  137.820 mbb/hand value(SB)=   56.13 mbb
+blueprint/runs/cfrplus/hu_25bb.log: t= 30000 expl(avg)=    1.985 expl(cur)=  244.103 mbb/hand value(SB)=   80.02 mbb
+blueprint/runs/cfrplus/hu_30bb.log: t= 30000 expl(avg)=    1.880 expl(cur)=  255.436 mbb/hand value(SB)=   98.27 mbb
+blueprint/runs/cfrplus/hu_3bb.log: t= 30000 expl(avg)=    0.000 expl(cur)=    0.000 mbb/hand value(SB)=   23.14 mbb
+blueprint/runs/cfrplus/hu_40bb.log: t= 30000 expl(avg)=    2.833 expl(cur)=  280.268 mbb/hand value(SB)=  123.44 mbb
+blueprint/runs/cfrplus/hu_4bb.log: t= 30000 expl(avg)=    0.000 expl(cur)=    0.000 mbb/hand value(SB)=   51.15 mbb
+blueprint/runs/cfrplus/hu_50bb.log: t= 30000 expl(avg)=    3.601 expl(cur)=  455.638 mbb/hand value(SB)=  136.96 mbb
+blueprint/runs/cfrplus/hu_5bb.log: t= 30000 expl(avg)=    0.000 expl(cur)=    0.000 mbb/hand value(SB)=   62.15 mbb
+blueprint/runs/cfrplus/hu_65bb.log: t= 30000 expl(avg)=    4.963 expl(cur)=  617.065 mbb/hand value(SB)=  148.14 mbb
+blueprint/runs/cfrplus/hu_6bb.log: t= 30000 expl(avg)=    0.000 expl(cur)=    0.000 mbb/hand value(SB)=   59.69 mbb
+blueprint/runs/cfrplus/hu_80bb.log: t= 30000 expl(avg)=    4.445 expl(cur)=  498.434 mbb/hand value(SB)=  151.09 mbb
+blueprint/runs/cfrplus/hu_8bb.log: t= 30000 expl(avg)=    0.015 expl(cur)=    3.366 mbb/hand value(SB)=   37.29 mbb
+== multiway nashconv (mbb/hand) ==
+blueprint/runs/multi/multi_N3_100bb.log: t=   901 nashconv=    0.271 mbb/hand  0 ms/iter  elapsed=0.0
+blueprint/runs/multi/multi_N3_12bb.log: t=   401 nashconv=    0.294 mbb/hand  0 ms/iter  elapsed=0.0
+blueprint/runs/multi/multi_N3_16bb.log: t=   401 nashconv=    0.228 mbb/hand  0 ms/iter  elapsed=0.0
+blueprint/runs/multi/multi_N3_20bb.log: t=   501 nashconv=    0.248 mbb/hand  1 ms/iter  elapsed=0.0
+blueprint/runs/multi/multi_N3_25bb.log: t=   601 nashconv=    0.243 mbb/hand  1 ms/iter  elapsed=0.0
+blueprint/runs/multi/multi_N3_32bb.log: t=   801 nashconv=    0.299 mbb/hand  1 ms/iter  elapsed=0.0
+blueprint/runs/multi/multi_N3_40bb.log: t=   901 nashconv=    0.275 mbb/hand  1 ms/iter  elapsed=0.0
+blueprint/runs/multi/multi_N3_50bb.log: t=  1101 nashconv=    0.294 mbb/hand  0 ms/iter  elapsed=0.0
+blueprint/runs/multi/multi_N3_5bb.log: t=   201 nashconv=    0.060 mbb/hand  0 ms/iter  elapsed=0.0
+blueprint/runs/multi/multi_N3_65bb.log: t=   701 nashconv=    0.247 mbb/hand  1 ms/iter  elapsed=0.0
+blueprint/runs/multi/multi_N3_8bb.log: t=   201 nashconv=    0.073 mbb/hand  0 ms/iter  elapsed=0.0
+blueprint/runs/multi/multi_N4_100bb.log: t=  1101 nashconv=    0.277 mbb/hand  3 ms/iter  elapsed=0.1
+blueprint/runs/multi/multi_N4_12bb.log: t=   501 nashconv=    0.270 mbb/hand  4 ms/iter  elapsed=0.0
+blueprint/runs/multi/multi_N4_16bb.log: t=   601 nashconv=    0.265 mbb/hand  4 ms/iter  elapsed=0.0
+blueprint/runs/multi/multi_N4_20bb.log: t=   601 nashconv=    0.231 mbb/hand  4 ms/iter  elapsed=0.0
+blueprint/runs/multi/multi_N4_25bb.log: t=   601 nashconv=    0.266 mbb/hand  4 ms/iter  elapsed=0.0
+blueprint/runs/multi/multi_N4_32bb.log: t=   801 nashconv=    0.291 mbb/hand  4 ms/iter  elapsed=0.0
+blueprint/runs/multi/multi_N4_40bb.log: t=   801 nashconv=    0.299 mbb/hand  3 ms/iter  elapsed=0.0
+blueprint/runs/multi/multi_N4_50bb.log: t=  1201 nashconv=    0.283 mbb/hand  4 ms/iter  elapsed=0.1
+blueprint/runs/multi/multi_N4_5bb.log: t=   201 nashconv=    0.097 mbb/hand  3 ms/iter  elapsed=0.0
+blueprint/runs/multi/multi_N4_65bb.log: t=   701 nashconv=    0.281 mbb/hand  4 ms/iter  elapsed=0.0
+blueprint/runs/multi/multi_N4_8bb.log: t=   201 nashconv=    0.253 mbb/hand  3 ms/iter  elapsed=0.0
+blueprint/runs/multi/multi_N5_100bb.log: t=  1101 nashconv=    0.296 mbb/hand  23 ms/iter  elapsed=0.
+blueprint/runs/multi/multi_N5_12bb.log: t=   501 nashconv=    0.272 mbb/hand  22 ms/iter  elapsed=0.
+blueprint/runs/multi/multi_N5_16bb.log: t=   701 nashconv=    0.254 mbb/hand  24 ms/iter  elapsed=0.
+blueprint/runs/multi/multi_N5_20bb.log: t=  1101 nashconv=    0.268 mbb/hand  24 ms/iter  elapsed=0.
+blueprint/runs/multi/multi_N5_25bb.log: t=   701 nashconv=    0.276 mbb/hand  25 ms/iter  elapsed=0.
+blueprint/runs/multi/multi_N5_32bb.log: t=  1201 nashconv=    0.284 mbb/hand  27 ms/iter  elapsed=0.
+blueprint/runs/multi/multi_N5_40bb.log: t=  1001 nashconv=    0.299 mbb/hand  25 ms/iter  elapsed=0.
+blueprint/runs/multi/multi_N5_50bb.log: t=  1401 nashconv=    0.281 mbb/hand  23 ms/iter  elapsed=0.
+blueprint/runs/multi/multi_N5_5bb.log: t=   201 nashconv=    0.180 mbb/hand  21 ms/iter  elapsed=0.
+blueprint/runs/multi/multi_N5_65bb.log: t=  1101 nashconv=    0.289 mbb/hand  24 ms/iter  elapsed=0.
+blueprint/runs/multi/multi_N5_8bb.log: t=   401 nashconv=    0.205 mbb/hand  22 ms/iter  elapsed=0.
+blueprint/runs/multi/multi_N6_100bb.log: t=  2001 nashconv=    0.291 mbb/hand  166 ms/iter  elapsed=5
+blueprint/runs/multi/multi_N6_12bb.log: t=   701 nashconv=    0.262 mbb/hand  173 ms/iter  elapsed=2
+blueprint/runs/multi/multi_N6_16bb.log: t=   901 nashconv=    0.275 mbb/hand  126 ms/iter  elapsed=1
+blueprint/runs/multi/multi_N6_20bb.log: t=  1501 nashconv=    0.291 mbb/hand  146 ms/iter  elapsed=3
+blueprint/runs/multi/multi_N6_25bb.log: t=  1301 nashconv=    0.274 mbb/hand  171 ms/iter  elapsed=3
+blueprint/runs/multi/multi_N6_32bb.log: t=  1401 nashconv=    0.296 mbb/hand  212 ms/iter  elapsed=5
+blueprint/runs/multi/multi_N6_40bb.log: t=  1201 nashconv=    0.272 mbb/hand  197 ms/iter  elapsed=3
+blueprint/runs/multi/multi_N6_50bb.log: t=  1401 nashconv=    0.297 mbb/hand  202 ms/iter  elapsed=4
+blueprint/runs/multi/multi_N6_5bb.log: t=   201 nashconv=    0.266 mbb/hand  114 ms/iter  elapsed=0
+blueprint/runs/multi/multi_N6_65bb.log: t=  1301 nashconv=    0.288 mbb/hand  186 ms/iter  elapsed=4
+blueprint/runs/multi/multi_N6_8bb.log: t=   401 nashconv=    0.238 mbb/hand  123 ms/iter  elapsed=0
+blueprint/runs/multi/multi_N7_100bb.log: t=  2801 nashconv=    0.289 mbb/hand  859 ms/iter  elapsed=4
+blueprint/runs/multi/multi_N7_12bb.log: t=  1001 nashconv=    0.297 mbb/hand  756 ms/iter  elapsed=1
+blueprint/runs/multi/multi_N7_16bb.log: t=  1601 nashconv=    0.272 mbb/hand  739 ms/iter  elapsed=1
+blueprint/runs/multi/multi_N7_20bb.log: t=  2001 nashconv=    0.266 mbb/hand  732 ms/iter  elapsed=2
+blueprint/runs/multi/multi_N7_25bb.log: t=  1801 nashconv=    0.295 mbb/hand  841 ms/iter  elapsed=2
+blueprint/runs/multi/multi_N7_32bb.log: t=  1701 nashconv=    0.283 mbb/hand  919 ms/iter  elapsed=2
+blueprint/runs/multi/multi_N7_40bb.log: t=  1501 nashconv=    0.293 mbb/hand  821 ms/iter  elapsed=2
+blueprint/runs/multi/multi_N7_50bb.log: t=  1601 nashconv=    0.283 mbb/hand  986 ms/iter  elapsed=2
+blueprint/runs/multi/multi_N7_5bb.log: t=   201 nashconv=    0.228 mbb/hand  565 ms/iter  elapsed=1
+blueprint/runs/multi/multi_N7_65bb.log: t=  1701 nashconv=    0.274 mbb/hand  1001 ms/iter  elapsed=
+blueprint/runs/multi/multi_N7_8bb.log: t=   501 nashconv=    0.216 mbb/hand  496 ms/iter  elapsed=4
+blueprint/runs/multi/multi_N8_100bb.log: t=   801 nashconv=    1.661 mbb/hand  5757 ms/iter  elapsed=
+blueprint/runs/multi/multi_N8_12bb.log: t=  1401 nashconv=    0.285 mbb/hand  1620 ms/iter  elapsed=
+blueprint/runs/multi/multi_N8_16bb.log: t=  1401 nashconv=    0.264 mbb/hand  2721 ms/iter  elapsed=
+blueprint/runs/multi/multi_N8_20bb.log: t=  1001 nashconv=    0.977 mbb/hand  4825 ms/iter  elapsed=
+blueprint/runs/multi/multi_N8_25bb.log: t=  2401 nashconv=    0.281 mbb/hand  1530 ms/iter  elapsed=
+blueprint/runs/multi/multi_N8_32bb.log: t=  1801 nashconv=    0.656 mbb/hand  2570 ms/iter  elapsed=
+blueprint/runs/multi/multi_N8_40bb.log: t=   901 nashconv=    1.648 mbb/hand  5353 ms/iter  elapsed=
+blueprint/runs/multi/multi_N8_50bb.log: t=  1801 nashconv=    0.277 mbb/hand  1704 ms/iter  elapsed=
+blueprint/runs/multi/multi_N8_5bb.log: t=   201 nashconv=    0.213 mbb/hand  2422 ms/iter  elapsed=
+blueprint/runs/multi/multi_N8_65bb.log: t=  1701 nashconv=    0.327 mbb/hand  2694 ms/iter  elapsed=
+blueprint/runs/multi/multi_N8_8bb.log: t=   701 nashconv=    0.255 mbb/hand  4843 ms/iter  elapsed=
+finalize done Fri Oct 23 05:15:11 EDT 2026

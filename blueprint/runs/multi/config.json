@@ -1,0 +1,15 @@
+{
+  "buckets": "blueprint/multi_buckets_K100.npz",
+  "out": "blueprint/runs/multi",
+  "players": "3,4,5,6,7,8",
+  "stacks": "5,8,12,16,20,25,32,40,50,65,100",
+  "sizes": "0.6",
+  "cap": 1,
+  "alpha": 0.15,
+  "beta": 0.12,
+  "iters": 4000,
+  "minutes": 75.0,
+  "target": 0.3,
+  "log_every": 100,
+  "workers": 6
+}

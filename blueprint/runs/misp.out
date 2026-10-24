@@ -1,0 +1,16 @@
+stack 3bb: 30000 iters, exploitability 0.002375745297418172 mbb/hand
+stack 4bb: 30000 iters, exploitability 0.008712184425059555 mbb/hand
+stack 5bb: 30000 iters, exploitability 0.003994639405455885 mbb/hand
+stack 6bb: 30000 iters, exploitability 0.009051890210699798 mbb/hand
+stack 8bb: 30000 iters, exploitability 0.014783482095152845 mbb/hand
+stack 10bb: 30000 iters, exploitability 0.02097376025785025 mbb/hand
+stack 12bb: 30000 iters, exploitability 0.2630959511383205 mbb/hand
+stack 15bb: 30000 iters, exploitability 0.8348668275152422 mbb/hand
+stack 20bb: 30000 iters, exploitability 0.2608600088402843 mbb/hand
+stack 25bb: 30000 iters, exploitability 0.5134521242463747 mbb/hand
+stack 30bb: 30000 iters, exploitability 0.9476245965797381 mbb/hand
+stack 40bb: 30000 iters, exploitability 1.1750631779502418 mbb/hand
+stack 50bb: 30000 iters, exploitability 2.4524845910668946 mbb/hand
+stack 65bb: 30000 iters, exploitability 3.808756600308966 mbb/hand
+stack 80bb: 30000 iters, exploitability 3.4978019870786916 mbb/hand
+stack 100bb: 30000 iters, exploitability 3.9505470335117616 mbb/hand

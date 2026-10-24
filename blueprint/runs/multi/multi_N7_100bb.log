@@ -1,0 +1,31 @@
+N=7 stack=100.0bb nodes=54,790 infoset entries=5,478,900
+compiled+1 iter in 1.2s
+t=   101 nashconv=   46.668 mbb/hand  1204 ms/iter  elapsed=2.0 min
+t=   201 nashconv=   13.824 mbb/hand  1097 ms/iter  elapsed=3.7 min
+t=   301 nashconv=    6.521 mbb/hand  1017 ms/iter  elapsed=5.1 min
+t=   401 nashconv=    4.086 mbb/hand  980 ms/iter  elapsed=6.5 min
+t=   501 nashconv=    2.926 mbb/hand  957 ms/iter  elapsed=8.0 min
+t=   601 nashconv=    2.166 mbb/hand  940 ms/iter  elapsed=9.4 min
+t=   701 nashconv=    1.674 mbb/hand  924 ms/iter  elapsed=10.8 min
+t=   801 nashconv=    1.391 mbb/hand  912 ms/iter  elapsed=12.2 min
+t=   901 nashconv=    1.221 mbb/hand  901 ms/iter  elapsed=13.5 min
+t=  1001 nashconv=    1.107 mbb/hand  895 ms/iter  elapsed=14.9 min
+t=  1101 nashconv=    1.001 mbb/hand  888 ms/iter  elapsed=16.3 min
+t=  1201 nashconv=    0.893 mbb/hand  883 ms/iter  elapsed=17.7 min
+t=  1301 nashconv=    0.800 mbb/hand  880 ms/iter  elapsed=19.1 min
+t=  1401 nashconv=    0.725 mbb/hand  877 ms/iter  elapsed=20.5 min
+t=  1501 nashconv=    0.651 mbb/hand  875 ms/iter  elapsed=21.9 min
+t=  1601 nashconv=    0.596 mbb/hand  873 ms/iter  elapsed=23.3 min
+t=  1701 nashconv=    0.550 mbb/hand  871 ms/iter  elapsed=24.7 min
+t=  1801 nashconv=    0.514 mbb/hand  870 ms/iter  elapsed=26.1 min
+t=  1901 nashconv=    0.483 mbb/hand  870 ms/iter  elapsed=27.6 min
+t=  2001 nashconv=    0.450 mbb/hand  868 ms/iter  elapsed=29.0 min
+t=  2101 nashconv=    0.422 mbb/hand  866 ms/iter  elapsed=30.3 min
+t=  2201 nashconv=    0.397 mbb/hand  865 ms/iter  elapsed=31.7 min
+t=  2301 nashconv=    0.371 mbb/hand  864 ms/iter  elapsed=33.1 min
+t=  2401 nashconv=    0.350 mbb/hand  864 ms/iter  elapsed=34.6 min
+t=  2501 nashconv=    0.329 mbb/hand  863 ms/iter  elapsed=36.0 min
+t=  2601 nashconv=    0.313 mbb/hand  863 ms/iter  elapsed=37.4 min
+t=  2701 nashconv=    0.303 mbb/hand  862 ms/iter  elapsed=38.8 min
+t=  2801 nashconv=    0.289 mbb/hand  859 ms/iter  elapsed=40.1 min
+finished 2801 iterations in 40.1 min

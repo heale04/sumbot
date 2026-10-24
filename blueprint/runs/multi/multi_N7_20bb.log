@@ -1,0 +1,23 @@
+N=7 stack=20.0bb nodes=54,790 infoset entries=5,478,900
+compiled+1 iter in 1.6s
+t=   101 nashconv=   10.025 mbb/hand  878 ms/iter  elapsed=1.5 min
+t=   201 nashconv=    4.734 mbb/hand  843 ms/iter  elapsed=2.8 min
+t=   301 nashconv=    3.378 mbb/hand  816 ms/iter  elapsed=4.1 min
+t=   401 nashconv=    2.390 mbb/hand  797 ms/iter  elapsed=5.3 min
+t=   501 nashconv=    1.820 mbb/hand  783 ms/iter  elapsed=6.5 min
+t=   601 nashconv=    1.496 mbb/hand  774 ms/iter  elapsed=7.8 min
+t=   701 nashconv=    1.259 mbb/hand  769 ms/iter  elapsed=9.0 min
+t=   801 nashconv=    1.066 mbb/hand  764 ms/iter  elapsed=10.2 min
+t=   901 nashconv=    0.928 mbb/hand  758 ms/iter  elapsed=11.4 min
+t=  1001 nashconv=    0.818 mbb/hand  754 ms/iter  elapsed=12.6 min
+t=  1101 nashconv=    0.710 mbb/hand  749 ms/iter  elapsed=13.7 min
+t=  1201 nashconv=    0.618 mbb/hand  747 ms/iter  elapsed=14.9 min
+t=  1301 nashconv=    0.555 mbb/hand  744 ms/iter  elapsed=16.1 min
+t=  1401 nashconv=    0.502 mbb/hand  741 ms/iter  elapsed=17.3 min
+t=  1501 nashconv=    0.454 mbb/hand  738 ms/iter  elapsed=18.5 min
+t=  1601 nashconv=    0.415 mbb/hand  737 ms/iter  elapsed=19.7 min
+t=  1701 nashconv=    0.381 mbb/hand  737 ms/iter  elapsed=20.9 min
+t=  1801 nashconv=    0.340 mbb/hand  736 ms/iter  elapsed=22.1 min
+t=  1901 nashconv=    0.302 mbb/hand  734 ms/iter  elapsed=23.2 min
+t=  2001 nashconv=    0.266 mbb/hand  732 ms/iter  elapsed=24.4 min
+finished 2001 iterations in 24.4 min

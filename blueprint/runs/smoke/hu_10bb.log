@@ -1,0 +1,5 @@
+stack=10.0bb mode=MI-SPCFR+ avg=quad R0=1.0 qre=0.0 nodes=3121 preflop: dec=32 flop: dec=136 turn: dec=352 river: dec=712 fold=849 showdown=849
+compiled in 1.7s; infoset entries=191,575 vector entries=195,240
+t=    51 expl(avg)=  300.276 expl(cur)=  269.004 mbb/hand value(SB)=   30.88 mbb  R mean=4.86 max=31  30 ms/iter  elapsed=0.0 min
+t=   100 expl(avg)=  184.485 expl(cur)=  173.127 mbb/hand value(SB)=   23.74 mbb  R mean=6.84 max=55  23 ms/iter  elapsed=0.0 min
+finished 100 iterations in 0.1 min

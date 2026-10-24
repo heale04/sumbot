@@ -1,0 +1,5 @@
+N=5 stack=5.0bb nodes=2,926 infoset entries=292,500
+compiled+1 iter in 0.0s
+t=   101 nashconv=    0.858 mbb/hand  22 ms/iter  elapsed=0.0 min
+t=   201 nashconv=    0.180 mbb/hand  21 ms/iter  elapsed=0.1 min
+finished 201 iterations in 0.1 min

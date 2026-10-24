@@ -1,0 +1,15 @@
+{
+  "abstraction": "blueprint/abs_test_K10.npz",
+  "out": "blueprint/runs/smoke",
+  "stacks": "10,20",
+  "sizes": "0.5,1|0.5,1|0.5,1|0.5,1",
+  "cap": 3,
+  "mode": 3,
+  "avg": "quad",
+  "R0": 1.0,
+  "qre": 0.0,
+  "iters": 100,
+  "time_limit": 0.0,
+  "log_every": 50,
+  "workers": 2
+}

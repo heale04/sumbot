@@ -1,0 +1,15 @@
+{
+  "abstraction": "blueprint/abs_K50.npz",
+  "out": "blueprint/runs/cfrplus",
+  "stacks": "3,4,5,6,8,10,12,15,20,25,30,40,50,65,80,100",
+  "sizes": "0.5,1|0.5,1|0.5,1|0.5,1",
+  "cap": 3,
+  "mode": 0,
+  "avg": "quad",
+  "R0": 1.0,
+  "qre": 0.0,
+  "iters": 30000,
+  "time_limit": 330.0,
+  "log_every": 500,
+  "workers": 7
+}

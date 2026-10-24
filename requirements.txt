@@ -1,0 +1,15 @@
+# The libraries every bot can import, at the exact versions the competition runs (Python 3.12).
+# The competition's own machines install this same file, so what works here works there.
+# CPU-only PyTorch: the default download also pulls in gigabytes of GPU libraries.
+--extra-index-url https://download.pytorch.org/whl/cpu
+numpy==2.5.3
+scipy==1.18.1
+pandas==3.0.6
+scikit-learn==1.9.1
+torch==2.14.1
+lightgbm==4.7.0
+xgboost==3.4.1
+onnxruntime==1.30.0
+numba==0.68.0
+# A fast hold'em hand evaluator. It knows only standard hold'em, not the competition variant.
+eval7==0.1.11; platform_machine == "x86_64" or sys_platform == "darwin"

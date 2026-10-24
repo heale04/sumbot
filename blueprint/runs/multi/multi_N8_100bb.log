@@ -1,0 +1,11 @@
+N=8 stack=100.0bb nodes=229,720 infoset entries=22,971,900
+compiled+1 iter in 15.3s
+t=   101 nashconv=   56.883 mbb/hand  11833 ms/iter  elapsed=19.9 min
+t=   201 nashconv=   15.929 mbb/hand  9492 ms/iter  elapsed=31.8 min
+t=   301 nashconv=    7.842 mbb/hand  8050 ms/iter  elapsed=40.4 min
+t=   401 nashconv=    5.053 mbb/hand  7289 ms/iter  elapsed=48.7 min
+t=   501 nashconv=    3.608 mbb/hand  6786 ms/iter  elapsed=56.7 min
+t=   601 nashconv=    2.687 mbb/hand  6353 ms/iter  elapsed=63.6 min
+t=   701 nashconv=    2.060 mbb/hand  6024 ms/iter  elapsed=70.4 min
+t=   801 nashconv=    1.661 mbb/hand  5757 ms/iter  elapsed=76.9 min
+finished 801 iterations in 76.9 min
